@@ -1,5 +1,8 @@
-GFW_DNS_SMART_RESOLVE
+Deprecated
 =====================
+Instead, you should look at a well maintained project like [dnsmasq-china-list
+](https://github.com/felixonmars/dnsmasq-china-list).
+
 解决使用国外 DNS 造成国内网站访问慢的问题，使得国内国外网站分别智能解析的配置文件。
 
 # 作用是什么？
